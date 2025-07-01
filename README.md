@@ -8,7 +8,7 @@ Aceasta este o aplicație simplă de notițe scrisă în Kotlin folosind **Jetpa
 - ✅ Validarea inputului (doar litere și spații)
 - ✅ Afișarea în listă cu dată formatată
 - ✅ Ștergerea unei note prin click
-- ✅ Salvarea temporară a notițelor în memorie (nu persistă după închidere)
+- ✅ Salvarea notițelor în memorie
 
 ## 🖼️ Captură de ecran
 
@@ -21,7 +21,8 @@ Aceasta este o aplicație simplă de notițe scrisă în Kotlin folosind **Jetpa
 - Jetpack Compose
 - AndroidX ViewModel
 - MVVM (Model-View-ViewModel)
-
+- ROOM database
+- Hilt
 
 ## 📚 Sursă de inspirație
 
